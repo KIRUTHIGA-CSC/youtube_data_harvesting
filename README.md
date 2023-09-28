@@ -42,6 +42,5 @@ streamlit run main.py
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
 
 ## Contact
-For inquiries or support, please contact balajigurusamy99@gmail.com or 
-[LINKEDIN](https://www.linkedin.com/in/balajiguru/)
+For inquiries or support, please contact kirthiga018@gmail.com 
 
